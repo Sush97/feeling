@@ -8,12 +8,13 @@ In the lab, I have many friends that are very less in talking. I don't have many
 
 ## Installation
 
-This project uses Twitter API, NLTK library for Natural Language Processing, Numpy for fundamental computation in Python and matplotlib to plot a simple visualization. In the script, I already assigned access token as permission to use Twitter API, you don't have to generate by yourself. Install Python, NLTK, Numpy and matplotlib if you haven't.
+This project uses Twitter API (I used Python interfacing library), NLTK library for Natural Language Processing, Numpy for fundamental computation in Python and matplotlib to plot a simple visualization. In the script, I already assigned access token as permission to use Twitter API, you don't have to generate by yourself.  Install Python, PythoNLTK, Numpy and matplotlib if you haven't.
 
 1. Python 2.7 (https://www.python.org/downloads/), do not use Python 3 as not supported by NLTK library
-2. NLTK (http://www.nltk.org/install.html)
-3. Numpy (http://www.scipy.org/install.html), it is usually included during Python installation
-4. matplotlib (http://matplotlib.org/users/installing.html)
+2. Python wrapper around Twitter API (https://code.google.com/p/python-twitter/)
+3. NLTK (http://www.nltk.org/install.html)
+4. Numpy (http://www.scipy.org/install.html), it is usually included during Python installation
+5. matplotlib (http://matplotlib.org/users/installing.html)
 
 ## Tests
 
